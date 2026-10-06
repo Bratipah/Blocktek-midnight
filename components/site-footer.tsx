@@ -53,7 +53,7 @@ export function SiteFooter() {
             <span className="text-sm font-semibold tracking-tight">BlockTekRadio</span>
           </div>
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-background/60">
-            A peer-to-peer decentralized radio protocol. Released under the MIT License by the BlockTek Radio Foundation.
+            A peer-to-peer decentralized radio protocol. This project is built on the Midnight Network.
           </p>
         </div>
 
