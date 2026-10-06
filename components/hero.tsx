@@ -3,7 +3,7 @@ import { GridField } from "@/components/grid-field"
 
 const STATUS_ITEMS = [
   { label: "Signal Status", value: "Nominal" },
-  { label: "Network", value: "EVM / Multi-Chain" },
+  { label: "Network", value: "Midnight / Multi-Chain" },
   { label: "Sample Rate", value: "192kHz / 32-bit" },
 ]
 
